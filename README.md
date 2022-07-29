@@ -1,2 +1,2 @@
 # graphics
-Repo for graphics programs.
+My college lectures, my syllabi, course work, programs, and other materials related to computer graphics.
